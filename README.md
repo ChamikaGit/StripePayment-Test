@@ -76,21 +76,3 @@ The project follows MVVM architecture with the following main components:
    STRIPE_SECRET_KEY=your_secret_key
    ```
 4. Build and run the application
-
-## Implementation Details
-
-- Uses Kotlin Coroutines for asynchronous operations
-- Implements MVVM architecture for clean separation of concerns
-- Utilizes Dagger Hilt for dependency injection
-- Handles API calls using Retrofit
-- Manages payment flow using Stripe SDK
-- Secures sensitive data using properties file
-
-## Best Practices
-
-- Secure key management
-- Clean architecture principles
-- Dependency injection
-- Asynchronous programming
-- Error handling
-- Code organization
