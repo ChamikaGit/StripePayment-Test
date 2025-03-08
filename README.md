@@ -50,7 +50,7 @@ This file is not committed to version control to maintain security.
 
 The project follows MVVM architecture with the following main components:
 
-- **View**: Activities and Fragments
+- **View**: Activities
 - **ViewModel**: Handles UI logic and state management
 - **Repository**: Manages data operations
 - **Network**: API service interfaces and implementations
